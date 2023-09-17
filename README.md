@@ -1,3 +1,3 @@
 # Dog-Props
 
-thids is the understanding of props in the learning journey of react framework
+This is the understanding of props in the learning journey of react framework
